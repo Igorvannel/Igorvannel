@@ -34,8 +34,6 @@ Je suis ouvert à collaborer sur des projets impliquant :
 📫 Comment Me Joindre
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vannel-sibemou-tientcheu-353911294/)
 
-📊 Mes Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Igorvannel&show_icons=true&theme=radical)
 
 ⚡ Faits Amusants
 * 🎮 Amateur de jeux vidéo pendant mon temps libre
